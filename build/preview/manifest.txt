@@ -1,0 +1,10 @@
+title.png  title with record
+title-fresh.png  title without record
+level1.png  L1 3×3 odd=5 综合 Δ=0.180 gap=0.235 base=0.559,0.583,0.374 odd=0.745,0.790,0.139
+level1-b.png  L1 3×3 odd=2 综合 Δ=0.180 gap=0.204 base=0.585,0.595,0.429 odd=0.785,0.799,0.250
+level1-wrong.png  L1 3×3 odd=5 综合 Δ=0.180 gap=0.235 base=0.559,0.583,0.374 odd=0.745,0.790,0.139 wrong
+level2.png  L2 4×4 odd=3 明度 Δ=0.111 gap=0.131 base=0.627,0.557,0.531 odd=0.496,0.429,0.404
+level4.png  L4 6×6 odd=13 纯度 Δ=0.047 gap=0.068 base=0.782,0.571,0.820 odd=0.831,0.522,0.888
+level8.png  L8 8×8 odd=16 纯度 Δ=0.019 gap=0.071 base=0.373,0.666,0.757 odd=0.444,0.656,0.725
+over.png  over new record
+compact.png  L2 4×4 odd=7 明度 Δ=0.111 gap=0.133 base=0.577,0.621,0.673 odd=0.448,0.490,0.540
